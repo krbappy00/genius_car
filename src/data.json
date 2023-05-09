@@ -1,0 +1,89 @@
+[
+    {
+        "name":"BASIC SERVICE",
+        "price":"199",
+        "img":"https://res.cloudinary.com/drsbymkpw/image/upload/v1681293365/xerrksnmjqx1t3b7ofut.jpg",
+        "service_id":"1",
+        "facility":[
+            {
+                "name":"Collection & Delivery"
+            },
+            {
+                "name":"360 Degree Health Check"
+            },
+            {
+                "name":"Car Wash"
+            },
+            {
+                "name":"Tyre Check & Air Pressure"
+            },
+            {
+                "name":"Oil Filter Replacement (Labour)"
+            }
+        ]
+    },
+    {
+        "name":"MAJOR SERVICE",
+        "price":"499",
+        "img":"https://res.cloudinary.com/drsbymkpw/image/upload/v1681293390/tvcu1c9we3hgechcgikp.jpg",
+        "service_id":"2",
+        "facility":[
+            {
+                "name":"Collection & Delivery"
+            },
+            {
+                "name":"360 Degree Health Check"
+            },
+            {
+                "name":"Car Wash"
+            },
+            {
+                "name":"Tyre Check & Air Pressure"
+            },
+            {
+                "name":"Oil Filter Replacement (Labour)"
+            },
+            {
+                "name":"Oil Change (Labour)"
+            },
+            {
+                "name":"Air Filter Replacement (Labour)"
+            },
+            {
+                "name":"Brake Check"
+            },
+            {
+                "name":"Windscreen Washer Fluid"
+            }
+        ]
+    },
+    {
+        "name":"FULL SERVICE",
+        "price":"349",
+        "img":"https://res.cloudinary.com/drsbymkpw/image/upload/v1681293499/fepi9qplkhyztlka2jg9.jpg",
+        "service_id":"3",
+        "facility":[
+            {
+                "name":"Collection & Delivery"
+            },
+            {
+                "name":"360 Degree Health Check"
+            },
+            {
+                "name":"Car Wash"
+            },
+            {
+                "name":"Tyre Check & Air Pressure"
+            },
+            {
+                "name":"Oil Change (Labour)"
+            },
+            {
+                "name":"Power Steering Fluid"
+            },
+            {
+                "name":"Oil Filter Replacement (Labour)"
+            }
+        ]
+    }
+]
